@@ -1,0 +1,19 @@
+{
+  "name": "rx-wx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitee.com/facelesswu/rx-wx.git"
+  },
+  "keywords": [],
+  "author": "facelesswu",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.51.2"
+  }
+}
