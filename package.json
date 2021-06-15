@@ -1,15 +1,15 @@
 {
-  "name": "rxjs-wx",
-  "version": "1.0.0",
+  "name": "wx-rxjs",
+  "version": "1.0.1",
   "description": "",
-  "main": "./dist/rxjs-wx.umd.js",
+  "main": "./dist/wx-rxjs.umd.js",
   "types": "./typings/index.d.ts",
   "scripts": {
     "build": "rollup --config -m"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/facelesswu/rxjs-wx.git"
+    "url": "https://gitee.com/facelesswu/wx-rxjs.git"
   },
   "keywords": [],
   "author": "faceless",
