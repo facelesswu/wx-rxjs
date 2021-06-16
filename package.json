@@ -1,8 +1,8 @@
 {
   "name": "wx-rxjs",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
-  "main": "./dist/wx-rxjs.umd.js",
+  "main": "./dist/wx-rxjs.js",
   "types": "./typings/index.d.ts",
   "scripts": {
     "build": "rollup --config -m"

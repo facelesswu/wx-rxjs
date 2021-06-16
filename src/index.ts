@@ -1,2 +1,4 @@
+import * as Operators from 'rxjs/operators';
+
+export { Operators };
 export * from 'rxjs';
-export * as operators from 'rxjs/operators';

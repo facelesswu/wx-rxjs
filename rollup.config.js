@@ -7,7 +7,7 @@ export default {
   input: 'src/index.ts',
   output: [
     {
-      file: `dist/wx-rxjs.umd.js`,
+      file: `dist/wx-rxjs.js`,
       format: 'umd',
       name: 'RxWx'
     }
