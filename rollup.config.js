@@ -9,7 +9,7 @@ export default {
     {
       file: `dist/wx-rxjs.js`,
       format: 'umd',
-      name: 'RxWx'
+      name: 'wxRx'
     }
   ],
   plugins: [
