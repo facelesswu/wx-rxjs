@@ -1,18 +1,22 @@
 {
   "name": "wx-rxjs",
-  "version": "1.0.4",
-  "description": "",
+  "version": "1.1.0",
+  "description": "微信小程序rxjs辅助安装包",
   "main": "./dist/wx-rxjs.js",
   "types": "./typings/index.d.ts",
   "scripts": {
-    "build": "rollup --config -m"
+    "build": "rollup --config -m",
+    "package": "npm run build && npm publish"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/facelesswu/wx-rxjs.git"
+    "url": "https://github.com/facelesswu/wx-rxjs.git"
   },
-  "keywords": [],
-  "author": "faceless",
+  "keywords": [
+    "微信小程序",
+    "rxjs"
+  ],
+  "author": "facelesswu",
   "license": "ISC",
   "dependencies": {
     "rxjs": "^6.6.7"
